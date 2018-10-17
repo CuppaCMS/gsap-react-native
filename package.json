@@ -2,11 +2,8 @@
   "name": "gsap-react-native",
   "version": "1.0.3",
   "description": "A GSAP plugin for tweening React.js component state.",
+  "author": "Tufik Chediak <tufik2@gmail.com>",
   "main": "gsap-react-native.js",
-  "scripts": {
-    "prepublish": "gulp build",
-    "test": "gulp test"
-  },
   "repository": {
     "type": "git",
     "url": "git://github.com/CuppaCMS/gsap-react-native.git"
@@ -20,7 +17,6 @@
     "React Native",
     "plugin"
   ],
-  "author": "Tufik Chediak <tufik2@gmail.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/CuppaCMS/gsap-react-native/issues"
