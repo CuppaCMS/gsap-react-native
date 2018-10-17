@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/hzdg/gsap-react-plugin.git"
+    "url": "git://github.com/CuppaCMS/gsap-react-native.git"
   },
   "keywords": [
     "Greensock",
@@ -26,17 +26,5 @@
     "url": "https://github.com/CuppaCMS/gsap-react-native/issues"
   },
   "homepage": "https://github.com/CuppaCMS/gsap-react-native",
-  "devDependencies": {
-    "coffee-script": "^1.7.1",
-    "yargs": "^1.2.6",
-    "chalk": "^0.5.1",
-    "gulp-coffee": "^2.0.1",
-    "gulp-bump": "^0.1.10",
-    "gulp": "^3.8.6",
-    "chai": "^1.9.1",
-    "mocha": "^1.20.1",
-    "gulp-connect": "^2.0.6",
-    "open": "0.0.5",
-    "gulp-replace": "^0.4.0"
-  }
+  "devDependencies": { }
 }
