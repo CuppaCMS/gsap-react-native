@@ -2,7 +2,7 @@
   "name": "gsap-react-native",
   "version": "1.0.3",
   "description": "A GSAP plugin for tweening React.js component state.",
-  "main": "gsap-react-plugin.js",
+  "main": "gsap-react-native.js",
   "scripts": {
     "prepublish": "gulp build",
     "test": "gulp test"
@@ -17,14 +17,15 @@
     "TweenLite",
     "TweenMax",
     "React",
+    "React Native",
     "plugin"
   ],
-  "author": "Eric Eldredge <lettertwo@gmail.com>",
+  "author": "Tufik Chediak <tufik2@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/hzdg/gsap-react-plugin/issues"
+    "url": "https://github.com/CuppaCMS/gsap-react-native/issues"
   },
-  "homepage": "https://github.com/hzdg/gsap-react-plugin",
+  "homepage": "https://github.com/CuppaCMS/gsap-react-native",
   "devDependencies": {
     "coffee-script": "^1.7.1",
     "yargs": "^1.2.6",

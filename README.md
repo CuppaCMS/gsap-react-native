@@ -1,16 +1,15 @@
-GSAP React Plugin
+GSAP React Native Plugin
 =================
 
-A [GSAP] plugin for tweening [React.js] component state.
-
-This plugin will handle tweening values on a prop called `state`. If the tween
-target does not have a `setState` method, the plugin will not initialize.
-
+A [GSAP] plugin for tweening [ReactNative] component state.
 
 Usage
 -----
 
 ```javascript
+require('gsap');
+require('gsap-react-native');
+
 React.createClass({
     getInitialState: function() {
         return {width: 0};
