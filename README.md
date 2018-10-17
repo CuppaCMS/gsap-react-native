@@ -27,9 +27,7 @@ React.createClass({
 
 Installation
 ------------
-
-- Via [npm]: `npm install gsap-react-plugin`
-- Via [bower]: `bower install gsap-react-plugin`
+- Via [npm]: `npm install gsap && npm install gsap-react-plugin`
 - Via file > save as: [gsap-react-plugin.js]
 
 [GSAP]: http://www.greensock.com/gsap-js/
