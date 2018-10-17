@@ -27,8 +27,8 @@ React.createClass({
 
 Installation
 ------------
-- Via [npm]: `npm install gsap && npm install gsap-react-plugin`
-- Via file > save as: [gsap-react-plugin.js]
+- Via [npm]: `npm install gsap && npm install gsap-react-native`
+- Via file > save as: [gsap-react-native.js]
 
 [GSAP]: http://www.greensock.com/gsap-js/
 [React.js]: http://facebook.github.io/react/
