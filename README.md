@@ -1,5 +1,6 @@
 GSAP React Native Plugin
 =================
+If you are looking an library that support GSAP3+ follow the next repo: https://github.com/cloudbit-interactive/GSAP-RN
 
 A [GSAP] plugin for tweening [ReactNative] component state.
 
